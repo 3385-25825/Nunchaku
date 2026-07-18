@@ -1,6 +1,6 @@
 {
   "serverUrl": "https://nunchaku-server-production-b9ee.up.railway.app",
   "downloadUrl": "https://www.youtube.com",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "installerUrl": "https://nunchaku-server-production-b9ee.up.railway.app/Nunchaku-Setup.exe"
 }
